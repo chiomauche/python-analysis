@@ -11,7 +11,7 @@ import csv
 import numpy as np
 #Open the file by calling open and then csv.DictReader.
 
-input_file = csv.DictReader(open("C:\\Users\\Asabe Chioma\\OneDrive\\Desktop\\Starter_Code\\PyBank\\Resources\\budget_data.csv"))
+input_file = csv.DictReader(open("C:\\Users\\Asabe Chioma\\OneDrive\\Desktop\\GITHUB\\python-challange\\PyBank\\Resources\\budget_data.csv"))
 #ou may iterate over the rows of the csv file by iterating ove input_file. (Similarly to other files, you need to re-open the file if you want to iterate a second time.)
 
 
