@@ -9,3 +9,5 @@
 # PyPoll analysis
 The task is to help a small, rural town modernize its vote-counting process
 * I created a Python script that analyzed the votes of a particular county by calculating the total number of the votes cast, a complete list of the candidates who received votes, the percentage of the votes each candidate won, total number of votes each candidate won, the winner of the election based on popular vote.
+
+![Alt text](<Screenshot 2023-10-25 052440.png>)
